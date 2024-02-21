@@ -1,0 +1,29 @@
+What is typescript?
+Why do we need it?
+How is it different from javascript?
+
+typescript is a programming language to address shortcomming of javascript. for exemple: we compare javascript and typescript as javascript is a indisipline boy on the other hand typescript is a decipline boy. in short we call typescript is nothing but javascript with type checking. but typescript not only check type it also some other facitilities like code completion, refactoring and new features.
+
+    Benefites:
+        static typing,
+        code completion.
+        refactoring
+        shorthand notations
+    Drawbacks:
+        Compilation
+        Discipline in coding
+        Preferable for Medium to large project but not Preferable simple project.
+    
+    Typescript is an opne source language and is asuperset of javascript.
+        1. Offers additional features to javascript including static types.
+        2. Using types is completely optional.
+        3. Complies down to regular javascript
+        4. Can be used for front-end js as well as backend with node.js
+        5. Includes most features from ES6, ES7(classes, arrow function etc)
+        6. Types from 3rd party libraries can be added with type definitions.
+
+
+Setting Up the Development Environment
+    need install  node because we need node package manager to install typescript
+    run npm i -g typescript in cmd
+    tsc -v to check version of typescript
